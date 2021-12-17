@@ -1,3 +1,4 @@
+# 스캐너 입력 (a + b) 예제
 import java.util.Scanner;
 
 public class plus {
