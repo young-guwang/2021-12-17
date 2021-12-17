@@ -1,3 +1,4 @@
+#최빈수 구하기 예제
 import java.util.Scanner;
 
 public class a {
